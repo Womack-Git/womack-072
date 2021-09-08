@@ -1,0 +1,90 @@
+header{
+  background-color: #2b53f7;
+  color: #d4af37;
+  max-width: 450px;
+  border-radius: 25px;
+  border-style: solid;
+  margin-bottom: 15px;
+}
+
+*{
+  margin: auto;
+  padding: 5px;
+  text-align: center;
+}
+
+body{
+  background-color: rgb(104, 122, 141);
+}
+
+p{
+  max-width: 350px;
+}
+
+article{
+  margin-top: 10px;
+  margin-bottom:10px;
+  background-color: white;
+  max-width: 300px;
+  border-radius: 25px;
+  border-style: dashed;
+  border-color: red;
+  color: black;
+}
+
+.trademark{
+  border-radius: 25px;
+  border-style: dashed;
+  border-color: red;
+  background-color:yellow;
+  color: black;
+  max-width: 350px;
+}
+
+#a{
+  color: #d4af37;
+  background-color: #2b53f7;
+  border-radius: 25px;
+  border-style: solid;
+  max-width: 550px;
+}
+
+#b{
+  color: #d4af37;
+  background-color: #2b53f7;
+  border-radius: 25px;
+  border-style: solid;
+  max-width: 550px;
+}
+
+#c{
+  color: #d4af37;
+  background-color: #2b53f7;
+  border-radius: 25px;
+  border-style: solid;
+  max-width: 550px;
+}
+
+#d{
+  color: #d4af37;
+  background-color: #2b53f7;
+  border-radius: 25px;
+  border-style: solid;
+  max-width: 550px;
+}
+
+#e{
+  color: #d4af37;
+  background-color: #2b53f7;
+  border-radius: 25px;
+  border-style: solid;
+  max-width: 550px;
+}
+
+#f{
+  color: #d4af37;
+  background-color: #2b53f7;
+  border-radius: 25px;
+  border-style: solid;
+  max-width: 550px;
+}
